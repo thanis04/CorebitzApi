@@ -1,0 +1,64 @@
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\CorebitzApi.exe
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\CorebitzApi.deps.json
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\CorebitzApi.runtimeconfig.json
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\CorebitzApi.dll
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\CorebitzApi.pdb
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\CorebitzApi.csproj.AssemblyReference.cache
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\CorebitzApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\CorebitzApi.AssemblyInfoInputs.cache
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\CorebitzApi.AssemblyInfo.cs
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\CorebitzApi.csproj.CoreCompileInputs.cache
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\CorebitzApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\CorebitzApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\staticwebassets\msbuild.CorebitzApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\staticwebassets\msbuild.build.CorebitzApi.props
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CorebitzApi.props
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CorebitzApi.props
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\scopedcss\bundle\CorebitzApi.styles.css
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\Corebitz.E779018C.Up2Date
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\CorebitzApi.dll
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\refint\CorebitzApi.dll
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\CorebitzApi.pdb
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\CorebitzApi.genruntimeconfig.cache
+C:\Users\Thanis\Desktop\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\ref\CorebitzApi.dll
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\CorebitzApi.exe
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\CorebitzApi.deps.json
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\CorebitzApi.runtimeconfig.json
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\CorebitzApi.dll
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\CorebitzApi.pdb
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\CorebitzApi.csproj.AssemblyReference.cache
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\CorebitzApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\CorebitzApi.AssemblyInfoInputs.cache
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\CorebitzApi.AssemblyInfo.cs
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\CorebitzApi.csproj.CoreCompileInputs.cache
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\CorebitzApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\CorebitzApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\staticwebassets\msbuild.CorebitzApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\staticwebassets\msbuild.build.CorebitzApi.props
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CorebitzApi.props
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CorebitzApi.props
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\scopedcss\bundle\CorebitzApi.styles.css
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\Corebitz.E779018C.Up2Date
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\CorebitzApi.dll
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\refint\CorebitzApi.dll
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\CorebitzApi.pdb
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\CorebitzApi.genruntimeconfig.cache
+C:\Users\Thanis\Desktop\Building Applications with Angular 11 and ASP.NET Core 5\asp.net\CorebitzApi\CorebitzApi\obj\Debug\net8.0\ref\CorebitzApi.dll
